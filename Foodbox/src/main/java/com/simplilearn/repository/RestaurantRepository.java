@@ -7,5 +7,6 @@ import com.simplilearn.entity.Restaurant;
 
 @Repository
 public interface RestaurantRepository extends CrudRepository<Restaurant, Integer>{
+	
 
 }
